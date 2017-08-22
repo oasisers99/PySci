@@ -1,0 +1,39 @@
+https://www.oreilly.com/ideas/six-reasons-why-i-recommend-scikit-learn
+
+different term weights
+tf*idf (term frequency x inverse document frequency)
+tf: Terms that are frequent in a document represent its meaning well
+idf: Terms that are rare in the corpus distinguish among documents well
+
+Types of Clustering Algorithms
+
+Hard (Exclusive)
+Each object is in just one cluster.
+The most common type of clustering.
+
+Soft (Not exclusive)
+Each object has degrees of membership in a cluster
+Less common
+
+Flat Clustering K-Means:
+Algorithm
+- Randomly pick K objects to define cluster centroids (centers)
+  While (Not Done)
+  	Assign each object to the cluster with the nearest centroid
+  	Calculate new cluster centroids for each cluster
+
+Typical Stopping Criteria
+- N passes, e.g., N=5
+- Stable centroids
+	- E.g., they don't change much from iteration i to i+1
+
+Characteristics
+- No guidance about how to choose the right value for K
+- Can be sensitive to the initial choice of centroids
+- Clusters defined by centers of mass
+- Hard clustering
+- Simple and fast
+	- Computational complexity is O(n)
+- Very popular
+
+Before clustering, shouldn't we standardize (clean) our descriptions?
