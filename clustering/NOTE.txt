@@ -1,6 +1,10 @@
+Python SciKit
 https://www.oreilly.com/ideas/six-reasons-why-i-recommend-scikit-learn
 
-different term weights
+Clustering in R
+https://rpubs.com/saqib/DocumentClustering
+
+Different term weights
 tf*idf (term frequency x inverse document frequency)
 tf: Terms that are frequent in a document represent its meaning well
 idf: Terms that are rare in the corpus distinguish among documents well
@@ -37,3 +41,6 @@ Characteristics
 - Very popular
 
 Before clustering, shouldn't we standardize (clean) our descriptions?
+
+Stemming & Lemmatization
+https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
