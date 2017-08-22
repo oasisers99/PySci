@@ -1,0 +1,827 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blog-",
+				"blog-post-div"
+			],
+			[
+				"tribe",
+				"tribe_id\t(TribeController.php)"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"edito",
+				"editorCNT"
+			],
+			[
+				"edi",
+				"editorHTML"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"col-m",
+				"col-md-1\t(create.blade.php)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"col-md",
+				"col-md-6\t(main.blade.php)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"var_",
+				"var_export"
+			],
+			[
+				"more",
+				"more-search"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Tribe",
+				"TribeHelper"
+			],
+			[
+				"put",
+				"putInfoIntoSession\t(RegisterController.php)"
+			],
+			[
+				"Session",
+				"SessionHelper"
+			],
+			[
+				"nf-fie",
+				"nf-field-32"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ng-re",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"facebook",
+				"facebook_sentiment_analysis"
+			],
+			[
+				"lib",
+				"library"
+			],
+			[
+				"ggplo",
+				"ggplot2"
+			],
+			[
+				"instal",
+				"install"
+			],
+			[
+				"passpo",
+				"passport"
+			],
+			[
+				"au",
+				"authenticate"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"con",
+				"configAuth"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"se",
+				"serialize"
+			],
+			[
+				"confi",
+				"configDB"
+			],
+			[
+				"Qu",
+				"Qualtrics"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/songminseok/repository/PySci/clustering.py",
+			"settings":
+			{
+				"buffer_size": 136,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import numpy as np"
+			}
+		}
+	],
+	"build_system": "Packages/User/Python3.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/R/R.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/songminseok/repository/tribe/resources/views/pages/login/login.blade.php",
+		"/Users/songminseok/repository/tribe/resources/views/pages/tribe/main.blade.php",
+		"/Users/songminseok/repository/tribe/app/Http/Controllers/Front/FrontController.php",
+		"/Users/songminseok/repository/tribe/app/Http/Controllers/Tribe/TribeController.php",
+		"/Users/songminseok/repository/tribe/resources/views/pages/tribe/create-posting.blade.php",
+		"/Users/songminseok/repository/tribe/routes/web.php",
+		"/Users/songminseok/repository/tribe/resources/views/layouts/meta.blade.php",
+		"/Users/songminseok/repository/tribe/resources/views/pages/front/front.blade.php",
+		"/Users/songminseok/repository/tribe/resources/views/pages/front/tribe-search.blade.php",
+		"/Users/songminseok/repository/tribe/resources/views/layouts/tribe.blade.php",
+		"/Users/songminseok/repository/tribe/resources/views/pages/sections/tribe-menu.blade.php",
+		"/Users/songminseok/repository/tribe/resources/views/pages/tribe/create-project.blade.php",
+		"/Users/songminseok/repository/tribe/resources/views/pages/sections/menu.blade.php",
+		"/Users/songminseok/repository/tribe/awsconnect.sh",
+		"/Users/songminseok/repository/tribe/.gitignore",
+		"/Users/songminseok/Downloads/voltage/index.html",
+		"/Users/songminseok/repository/tribe/resources/views/pages/tribe/create.blade.php",
+		"/Users/songminseok/repository/tribe/public/ckeditor/samples/index.html",
+		"/Users/songminseok/repository/tribe/public/ckeditor/plugins/imageuploader/imgupload.php",
+		"/Users/songminseok/repository/tribe/app/Model/Tribe/TribeMain.php",
+		"/Users/songminseok/repository/tribe/vendor/ckeditor/ckeditor/config.js",
+		"/Users/songminseok/repository/tribe/public/ckeditor/config.js",
+		"/Users/songminseok/repository/tribe/composer.json",
+		"/Users/songminseok/repository/tribe/app/Helper/TribeHelper.php",
+		"/Users/songminseok/repository/tribe/resources/views/pages/front/tribe.blade.php",
+		"/Users/songminseok/repository/tribe/app/Helper/SessionHelper.php",
+		"/Users/songminseok/repository/tribe/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/songminseok/repository/tribe/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/songminseok/repository/tribe/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/Users/songminseok/repository/tribe/app/Helper/SessionHelper",
+		"/Users/songminseok/Dropbox/INVESTMENT/MEMO",
+		"/Users/songminseok/Dropbox/VISA/FAMILY/FAMILY_VISA_MEMO",
+		"/etc/bashrc",
+		"/Users/songminseok/pyproject/yellowscrapper/tester.htm",
+		"/Users/songminseok/pyproject/yellowscrapper/yellowscrapper/settings.py",
+		"/Users/songminseok/Dropbox/CMU/TA/APPLIED DATA SCIENCE/MAPR_MEMO",
+		"/Users/songminseok/Downloads/ASSIGNMENT2/Assignment 2_LI ZHUOHANG/DataProcessor_Airline/src/dataprocessor/DataProcessor.java",
+		"/Users/songminseok/Downloads/ASSIGNMENT2/Assignment 2_LI ZHUOHANG/DataProcessor_Breath_Clustering/src/dataprocessor_breath_clustering/Vector.java",
+		"/Users/songminseok/Downloads/ASSIGNMENT2/jubin/BigDataA2-8/src/main/java/org/sample/bigdataa2/GaussianMixtureTrial.java",
+		"/Users/songminseok/Dropbox/CMU/TA/APPLIED DATA SCIENCE/LAB/LAB4/LAB4_MEMO.txt",
+		"/Users/songminseok/Dropbox/VOLI/GIT.txt",
+		"/Users/songminseok/Downloads/nf_form_06-11-2017.nff",
+		"/Users/songminseok/Dropbox/VISA/VISA_MEMO",
+		"/Users/songminseok/Dropbox/CMU/TA/APPLIED DATA SCIENCE/ASSIGNMENT1/ErickRodriguezAssignment1/_SUCCESS",
+		"/Users/songminseok/Dropbox/CMU/TA/APPLIED DATA SCIENCE/ASSIGNMENT1/ErickRodriguezAssignment1/part-r-00000",
+		"/Users/songminseok/Downloads/ASSIGNMENT1/Assignment1SughoshRao/MaxSolarExposure/src/main/java/com/mycompany/MaxSolarExposure/MaxSolarExposureReducer.java",
+		"/Users/songminseok/Downloads/ASSIGNMENT1/BigDataA1/BigDataAssignment1/src/main/java/com/mycompany/bigdataassignment1/CalculateSolarExposure.java",
+		"/Users/songminseok/Desktop/movies.dat",
+		"/Users/songminseok/Desktop/ratings.dat",
+		"/Users/songminseok/Dropbox/window elbow diesel arrive follow play repair majo",
+		"/Applications/MAMP/htdocs/php/demo_old.php",
+		"/Users/songminseok/Desktop/VOLI/log",
+		"/Users/songminseok/Desktop/career",
+		"/Users/songminseok/Dropbox/Investment/INTERIM_DIVIDEND_CLAIM",
+		"/Users/songminseok/Downloads/bashscript2017.sh",
+		"/Users/songminseok/Desktop/HostEnv.txt",
+		"/Users/songminseok/Dropbox/CMU/TA/JAVA/EXAM/EXAM_RESULT",
+		"/Users/songminseok/Dropbox/CMU/NoSQL/EXAM-PREP",
+		"/Users/songminseok/Dropbox/CMU/NoSQL/nosql_memo",
+		"/Users/songminseok/Downloads/HW6/HW6",
+		"/Users/songminseok/Desktop/JAVA_HW5",
+		"/Users/songminseok/Desktop/plan",
+		"/Users/songminseok/Dropbox/SELF STUDY/AWS CLOUD ARCHITECT/AWS Certified Developer Associate",
+		"/Users/songminseok/Desktop/neo4j/2d.txt",
+		"/Users/songminseok/Dropbox/CMU/NoSQL/HOMEWORK/HW2/hw2_cassandra.sql",
+		"/Users/songminseok/Dropbox/CMU/NoSQL/HOMEWORK/HW2/AggregatedDataSample.JSON",
+		"/Users/songminseok/Dropbox/CMU/NoSQL/HOMEWORK/HW2/example.json",
+		"/Users/songminseok/Dropbox/CMU/NoSQL/HOMEWORK/HW2/STUDENT.JSON",
+		"/Users/songminseok/Dropbox/CMU/NoSQL/LAB3/lab3.sql",
+		"/Applications/MAMP/htdocs/tutorial/dommani.html",
+		"/Users/songminseok/Desktop/AngularJS Component",
+		"/Users/songminseok/Dropbox/SELF STUDY/AWS CLOUD ARCHITECT/AWS CLOUD ARCHITECT ASSOCIATION",
+		"/Users/songminseok/Downloads/s3-rw-policy.json",
+		"/Users/songminseok/Downloads/firehose-policy.json",
+		"/var/folders/nr/9qwmphvs0h7_yp6xg29fmphw0000gn/T/sublime-sftp-browse-1488101391/AWS_VOLI/var/www/html/readme_2.html",
+		"/var/folders/nr/9qwmphvs0h7_yp6xg29fmphw0000gn/T/sublime-sftp-browse-1488101291/AWS_VOLI/var/www/html/readme.html",
+		"/Users/songminseok/Dropbox/Investment/memo",
+		"/Users/songminseok/Desktop/Lab 4 - minseok1.txt",
+		"/Users/songminseok/repository/angular-phonecat/app/app.config.js",
+		"/Users/songminseok/Desktop/data_analysis_commands",
+		"/Users/songminseok/repository/angular-phonecat/app/app.module.js",
+		"/Users/songminseok/repository/angular-phonecat/app/phone-detail/phone-detail.template.html",
+		"/Users/songminseok/repository/angular-phonecat/app/index.html",
+		"/Users/songminseok/repository/angular-phonecat/app/phone-list/phone-list.template.html",
+		"/Users/songminseok/repository/angular-phonecat/app/phone-list/phone-list.component.js",
+		"/Users/songminseok/repository/angular-phonecat/app/phone-detail/phone-detail.component.js",
+		"/Users/songminseok/repository/angular-phonecat/app/core/core.module.js",
+		"/Users/songminseok/repository/angular-phonecat/app/phone-detail/phone-detail.module.js",
+		"/Users/songminseok/repository/angular-phonecat/app/bower_components/angular-route/angular-route.js",
+		"/Users/songminseok/repository/angular-phonecat/app/phones/phones.json",
+		"/Users/songminseok/repository/angular-phonecat/e2e-tests/scenarios.js",
+		"/Users/songminseok/repository/angular-phonecat/app/phone-list/phone-list.module.js",
+		"/Users/songminseok/repository/angular-phonecat/app/phone-list/phone-list.component.spec.js",
+		"/Users/songminseok/repository/angular-phonecat/app/phone-list.component.js",
+		"/Users/songminseok/repository/angular-phonecat/app/app.js",
+		"/Users/songminseok/repository/angular-phonecat/app/app.spec.js",
+		"/Users/songminseok/Desktop/lab1.sh",
+		"/Users/songminseok/Dropbox/CMU/TA/OOAD/memo",
+		"/Users/songminseok/Dropbox/CMU/SAHMRI/MEMO",
+		"/Users/songminseok/rf_mod_Solution.csv",
+		"/Users/songminseok/Dropbox/CMU/NETWORK & INTERNET SECURITY/ASSIGNMENTS/HW4/chatwithkris",
+		"/Users/songminseok/Dropbox/CMU/SAHMRI/assessment_letter",
+		"/var/folders/nr/9qwmphvs0h7_yp6xg29fmphw0000gn/T/sublime-sftp-browse-1478210968/AWS_LIMESURVEY/opt/bitnami/apps/limesurvey/htdocs/templates/default/views/assessment.pstpl",
+		"/Users/songminseok/Dropbox/CMU/NETWORK & INTERNET SECURITY/ASSIGNMENTS/HW3/memo",
+		"/Users/songminseok/Dropbox/CMU/assessment_letter",
+		"/Users/songminseok/repository/dashboard/app/scripts/directives/sidebar/sidebar.html",
+		"/Users/songminseok/repository/dashboard/app/scripts/app.js",
+		"/Users/songminseok/repository/dashboard/app/scripts/controllers/facebookChartContoller.js",
+		"/Users/songminseok/repository/dashboard/app/views/analysis/sentiment/facebook/facebook.html",
+		"/Users/songminseok/repository/dashboard/bower_components/Chart.js/Chart.js",
+		"/Users/songminseok/repository/dashboard/app/scripts/directives/timeline/timeline.js",
+		"/Users/songminseok/repository/dashboard/app/views/ui-elements/charts.html",
+		"/Users/songminseok/repository/dashboard/app/views/ui-elements/charts.js",
+		"/Users/songminseok/repository/dashboard/app/views/dashboard/home.html",
+		"/Users/songminseok/repository/dashboard/app/views/charts/chart_sample.html",
+		"/Users/songminseok/repository/dashboard/app/scripts/directives/timeline/timeline.html",
+		"/Users/songminseok/repository/dashboard/app/scripts/directives/charts/charts.js",
+		"/Users/songminseok/repository/dashboard/app/scripts/directives/sidebar/sidebar.js",
+		"/Users/songminseok/repository/dashboard/app/scripts/directives/charts/chart.html",
+		"/Users/songminseok/repository/dashboard/app/views/chart.html",
+		"/Users/songminseok/repository/dashboard/app/index.html",
+		"/Users/songminseok/repository/dashboard/app/scripts/controllers/chartContoller.js",
+		"/Users/songminseok/repository/dashboard/bower_components/oclazyload/examples/requireJSExample/js/main.js",
+		"/Users/songminseok/repository/dashboard/package.json",
+		"/Users/songminseok/R/ggplot/example",
+		"/Users/songminseok/R/r_titanic/titanic.R",
+		"/Users/songminseok/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/songminseok/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"editor",
+			"csrf",
+			"createpost",
+			"createposting",
+			"createPosting",
+			"pricing",
+			"procing",
+			"editor",
+			"ckeditor",
+			"uploadimage-config",
+			"getTribes",
+			"row p-b",
+			"search-message",
+			", Australia",
+			"tribeMain",
+			"kgn",
+			"listing-name",
+			"cell in-area-cell middle-cell",
+			"ell in-area-cell middle-cell",
+			"listing-name",
+			"The Marine Village Sanctuary Cove",
+			"listing-name",
+			"name-listing",
+			"error",
+			"file",
+			"why",
+			"nf-field-31",
+			"공증",
+			"apache",
+			"kill",
+			"top",
+			"Kirkpatrick",
+			"noraE",
+			"director",
+			"Jessica Thompson",
+			"director",
+			"reviewed",
+			"review",
+			"\"",
+			"insert",
+			"http://blogs.adobe.com/security/files/2011/04/NoSQL-But-Even-Less-Security.pdf?file=2011/04/NoSQL-But-Even-Less-Security.pdf",
+			"myContent",
+			"versionining",
+			"acl",
+			"here",
+			"hre",
+			".state(",
+			"state",
+			"ng-",
+			"mainImageUrl",
+			"multi",
+			"encryption",
+			"S3",
+			"EBS",
+			"JOOL",
+			"designer",
+			"ux",
+			"lime",
+			"GoAct",
+			"FbSaCtrl",
+			"ChartCtrl",
+			"panels-wells",
+			"timeline",
+			"new comm",
+			"sidebar",
+			"R",
+			"user.",
+			"user.facebook.name",
+			"scope",
+			"                 \nprofileFields",
+			"profileFields",
+			"local-login",
+			"require",
+			">",
+			"tableau",
+			"JOOL",
+			"qual",
+			"SWF",
+			"backed",
+			"EVS Backed",
+			"direct connect",
+			"ACCESS KEY",
+			"windows",
+			"EC2",
+			"EC2-",
+			"ABN",
+			"EBS",
+			"EFS",
+			"cloudtail",
+			"ebs",
+			"AMI",
+			"RRS",
+			"EBS",
+			"multi",
+			"DNS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/songminseok/repository/PySci/clustering.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import numpy as np",
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "clustering.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web.",
+				"routes/web.php"
+			],
+			[
+				"tribecont",
+				"app/Http/Controllers/Tribe/TribeController.php"
+			],
+			[
+				"main",
+				"resources/views/pages/tribe/main.blade.php"
+			],
+			[
+				"front",
+				"resources/views/pages/front/front.blade.php"
+			],
+			[
+				"tribe-",
+				"resources/views/pages/front/tribe-search.blade.php"
+			],
+			[
+				"tribe.",
+				"resources/views/layouts/tribe.blade.php"
+			],
+			[
+				"frontcon",
+				"app/Http/Controllers/Front/FrontController.php"
+			],
+			[
+				"tribe",
+				"resources/views/pages/front/tribe-search.blade.php"
+			],
+			[
+				"front.",
+				"resources/views/pages/front/front.blade.php"
+			],
+			[
+				"tribecon",
+				"app/Http/Controllers/Tribe/TribeController.php"
+			],
+			[
+				"main.blade.",
+				"resources/views/pages/tribe/main.blade.php"
+			],
+			[
+				"web.hp",
+				"routes/web.php"
+			],
+			[
+				"login",
+				"resources/views/pages/login/login.blade.php"
+			],
+			[
+				"create-po",
+				"resources/views/pages/tribe/create-posting.blade.php"
+			],
+			[
+				"create-",
+				"resources/views/pages/tribe/create-project.blade.php"
+			],
+			[
+				"menu",
+				"resources/views/pages/sections/menu.blade.php"
+			],
+			[
+				"awsco",
+				"awsconnect.sh"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"tribem",
+				"app/Model/Tribe/TribeMain.php"
+			],
+			[
+				"upload.p",
+				"public/ckeditor/plugins/imageuploader/imgupload.php"
+			],
+			[
+				"upload.ph",
+				"public/ckeditor/plugins/imageuploader/imgupload.php"
+			],
+			[
+				"ckeditor.",
+				"public/ckeditor/config.js"
+			],
+			[
+				"config.js",
+				"public/ckeditor/config.js"
+			],
+			[
+				"posting",
+				"resources/views/pages/tribe/create-posting.blade.php"
+			],
+			[
+				"tribeh",
+				"app/Helper/TribeHelper.php"
+			],
+			[
+				"web.p",
+				"routes/web.php"
+			],
+			[
+				"tribecontr",
+				"app/Http/Controllers/Tribe/TribeController.php"
+			],
+			[
+				"menu.",
+				"resources/views/pages/sections/menu.blade.php"
+			],
+			[
+				"web.ph",
+				"routes/web.php"
+			],
+			[
+				"authenticatesu",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"authcontro",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"logincontroller",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"logincon",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"phonelistcon",
+				"app/phone-list/phone-list.component.js"
+			],
+			[
+				"detail",
+				"app/phone-detail/phone-detail.component.js"
+			],
+			[
+				"phonedetail",
+				"app/phone-detail/phone-detail.module.js"
+			],
+			[
+				"phone-detail",
+				"app/phone-detail/phone-detail.component.js"
+			],
+			[
+				"angular-rou",
+				"app/bower_components/angular-route/angular-route.js"
+			],
+			[
+				"chart.js",
+				"bower_components/Chart.js/Chart.js"
+			],
+			[
+				"app.",
+				"app/scripts/app.js"
+			],
+			[
+				"passp",
+				"config/passport.js"
+			],
+			[
+				"pro",
+				"views/profile.ejs"
+			],
+			[
+				"serv",
+				"server.js"
+			],
+			[
+				"ro",
+				"app/routes.js"
+			],
+			[
+				"pass",
+				"config/passport.js"
+			],
+			[
+				"user.",
+				"app/models/user.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
