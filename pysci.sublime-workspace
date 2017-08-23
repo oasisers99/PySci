@@ -4,86 +4,6 @@
 		"selected_items":
 		[
 			[
-				"blog-",
-				"blog-post-div"
-			],
-			[
-				"tribe",
-				"tribe_id\t(TribeController.php)"
-			],
-			[
-				"paddin",
-				"padding-right"
-			],
-			[
-				"padd",
-				"padding-left"
-			],
-			[
-				"edito",
-				"editorCNT"
-			],
-			[
-				"edi",
-				"editorHTML"
-			],
-			[
-				"mar",
-				"margin-top"
-			],
-			[
-				"bor",
-				"border-color"
-			],
-			[
-				"form",
-				"form-group"
-			],
-			[
-				"margi",
-				"margin-top"
-			],
-			[
-				"col-m",
-				"col-md-1\t(create.blade.php)"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"col-md",
-				"col-md-6\t(main.blade.php)"
-			],
-			[
-				"wi",
-				"width"
-			],
-			[
-				"var_",
-				"var_export"
-			],
-			[
-				"more",
-				"more-search"
-			],
-			[
-				"margin",
-				"margin-bottom"
-			],
-			[
-				"Tribe",
-				"TribeHelper"
-			],
-			[
-				"put",
-				"putInfoIntoSession\t(RegisterController.php)"
-			],
-			[
-				"Session",
-				"SessionHelper"
-			],
-			[
 				"nf-fie",
 				"nf-field-32"
 			],
@@ -155,50 +75,10 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "clustering.sublime-project",
-			"settings":
-			{
-				"buffer_size": 544,
-				"line_ending": "Unix"
-			}
-		}
 	],
-	"build_system": "Packages/User/Python3.sublime-build",
+	"build_system": "",
 	"build_system_choices":
 	[
-		[
-			[
-				[
-					"Packages/Python/Python.sublime-build",
-					""
-				],
-				[
-					"Packages/Python/Python.sublime-build",
-					"Syntax Check"
-				],
-				[
-					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-					""
-				],
-				[
-					"Packages/User/Python3.sublime-build",
-					""
-				]
-			],
-			[
-				"Packages/User/Python3.sublime-build",
-				""
-			]
-		],
 		[
 			[
 				[
@@ -219,14 +99,10 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 228.0,
-		"last_filter": "insta",
+		"height": 367.0,
+		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
 			[
 				"Package Control: ",
 				"Package Control: Install Package"
@@ -240,7 +116,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 498.0
+		"width": 530.0
 	},
 	"console":
 	{
@@ -262,43 +138,11 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/songminseok/repository/PySci"
 	],
 	"file_history":
 	[
-		"/Users/songminseok/repository/PySci/clustering/clustering.py",
-		"/Users/songminseok/repository/PySci/clustering/NOTE.txt",
-		"/Users/songminseok/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
-		"/Users/songminseok/repository/PySci/clustering/clustering.sublime-project",
-		"/Users/songminseok/repository/tribe/resources/views/pages/login/login.blade.php",
-		"/Users/songminseok/repository/tribe/resources/views/pages/tribe/main.blade.php",
-		"/Users/songminseok/repository/tribe/app/Http/Controllers/Front/FrontController.php",
-		"/Users/songminseok/repository/tribe/app/Http/Controllers/Tribe/TribeController.php",
-		"/Users/songminseok/repository/tribe/resources/views/pages/tribe/create-posting.blade.php",
-		"/Users/songminseok/repository/tribe/routes/web.php",
-		"/Users/songminseok/repository/tribe/resources/views/layouts/meta.blade.php",
-		"/Users/songminseok/repository/tribe/resources/views/pages/front/front.blade.php",
-		"/Users/songminseok/repository/tribe/resources/views/pages/front/tribe-search.blade.php",
-		"/Users/songminseok/repository/tribe/resources/views/layouts/tribe.blade.php",
-		"/Users/songminseok/repository/tribe/resources/views/pages/sections/tribe-menu.blade.php",
-		"/Users/songminseok/repository/tribe/resources/views/pages/tribe/create-project.blade.php",
-		"/Users/songminseok/repository/tribe/resources/views/pages/sections/menu.blade.php",
-		"/Users/songminseok/repository/tribe/awsconnect.sh",
-		"/Users/songminseok/repository/tribe/.gitignore",
-		"/Users/songminseok/Downloads/voltage/index.html",
-		"/Users/songminseok/repository/tribe/resources/views/pages/tribe/create.blade.php",
-		"/Users/songminseok/repository/tribe/public/ckeditor/samples/index.html",
-		"/Users/songminseok/repository/tribe/public/ckeditor/plugins/imageuploader/imgupload.php",
-		"/Users/songminseok/repository/tribe/app/Model/Tribe/TribeMain.php",
-		"/Users/songminseok/repository/tribe/vendor/ckeditor/ckeditor/config.js",
-		"/Users/songminseok/repository/tribe/public/ckeditor/config.js",
-		"/Users/songminseok/repository/tribe/composer.json",
-		"/Users/songminseok/repository/tribe/app/Helper/TribeHelper.php",
-		"/Users/songminseok/repository/tribe/resources/views/pages/front/tribe.blade.php",
-		"/Users/songminseok/repository/tribe/app/Helper/SessionHelper.php",
-		"/Users/songminseok/repository/tribe/app/Http/Controllers/Auth/RegisterController.php",
-		"/Users/songminseok/repository/tribe/app/Http/Controllers/Auth/LoginController.php",
-		"/Users/songminseok/repository/tribe/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
-		"/Users/songminseok/repository/tribe/app/Helper/SessionHelper",
+		"/Users/songminseok/Dropbox/PROVISO/TEXTANALYTICS_NOTE",
 		"/Users/songminseok/Dropbox/INVESTMENT/MEMO",
 		"/Users/songminseok/Dropbox/VISA/FAMILY/FAMILY_VISA_MEMO",
 		"/etc/bashrc",
@@ -392,7 +236,40 @@
 		"/Users/songminseok/repository/dashboard/app/index.html",
 		"/Users/songminseok/repository/dashboard/app/scripts/controllers/chartContoller.js",
 		"/Users/songminseok/repository/dashboard/bower_components/oclazyload/examples/requireJSExample/js/main.js",
-		"/Users/songminseok/repository/dashboard/package.json"
+		"/Users/songminseok/repository/dashboard/package.json",
+		"/Users/songminseok/R/ggplot/example",
+		"/Users/songminseok/R/r_titanic/titanic.R",
+		"/Users/songminseok/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/songminseok/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/songminseok/repository/nodeauth/config/auth.js",
+		"/Users/songminseok/repository/nodeauth/app/routes.js",
+		"/Users/songminseok/repository/nodeauth/config/passport.js",
+		"/Users/songminseok/repository/nodeauth/config/database.js",
+		"/Users/songminseok/repository/nodeauth/views/profile.ejs",
+		"/Users/songminseok/repository/nodeauth/views/login.ejs",
+		"/Users/songminseok/repository/nodeauth/views/index.ejs",
+		"/Users/songminseok/repository/nodeauth/server.js",
+		"/Users/songminseok/repository/nodeauth/views/signup.ejs",
+		"/Users/songminseok/repository/nodeauth/app/models/user.js",
+		"/Users/songminseok/repository/nodeauth/README.md",
+		"/Users/songminseok/repository/nodeauth/package.json",
+		"/Users/songminseok/Dropbox/CMU/TD Challenge/TD_MEMO",
+		"/Users/songminseok/Dropbox/CMU/PROGRAMMING R/CODES/WEEK1/lecture1script.R",
+		"/Users/songminseok/Desktop/JOOL",
+		"/Users/songminseok/Dropbox/CMU/SOFTWARE & SECURITY/note",
+		"/Users/songminseok/Dropbox/CMU/CLOUD COMPUTING/MEMO",
+		"/Users/songminseok/Dropbox/Check List",
+		"/Users/songminseok/Documents/healthcheck.html",
+		"/Users/songminseok/Documents/index.html",
+		"/Users/songminseok/Desktop/Version1",
+		"/Users/songminseok/Desktop/README.txt",
+		"/Users/songminseok/Downloads/WRC_PROJECT_DIAGRAM (1).xml",
+		"/Users/songminseok/Dropbox/CMU/EBTM/TEAM/TEAM_MEMO",
+		"/Users/songminseok/Downloads/poama/TEST.nc",
+		"/Users/songminseok/Downloads/D11-02(1)/D01",
+		"/Users/songminseok/Downloads/D11-02(1)/D11",
+		"/Users/songminseok/Downloads/D11-02(1)/D12",
+		"/Users/songminseok/Downloads/XSLTSample/web/index.html"
 	],
 	"find":
 	{
@@ -403,7 +280,6 @@
 		"height": 93.0,
 		"where_history":
 		[
-			"<project>",
 			""
 		]
 	},
@@ -412,21 +288,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"editor",
-			"csrf",
-			"createpost",
-			"createposting",
-			"createPosting",
-			"pricing",
-			"procing",
-			"editor",
-			"ckeditor",
-			"uploadimage-config",
-			"getTribes",
-			"row p-b",
-			"search-message",
-			", Australia",
-			"tribeMain",
 			"kgn",
 			"listing-name",
 			"cell in-area-cell middle-cell",
@@ -514,7 +375,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"",
 			"'",
 			""
 		],
@@ -527,73 +387,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"default_dir": "/Users/songminseok/repository/PySci/clustering",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "clustering.sublime-project",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 544,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								178,
-								178
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -630,7 +425,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 154.0
+		"height": 100.0
 	},
 	"output.find_results":
 	{
@@ -640,8 +435,8 @@
 	{
 		"height": 100.0
 	},
-	"pinned_build_system": "Anaconda Python Builder 36",
-	"project": "clustering.sublime-project",
+	"pinned_build_system": "",
+	"project": "pysci.sublime-project",
 	"replace":
 	{
 		"height": 42.0
@@ -653,138 +448,6 @@
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"web.",
-				"routes/web.php"
-			],
-			[
-				"tribecont",
-				"app/Http/Controllers/Tribe/TribeController.php"
-			],
-			[
-				"main",
-				"resources/views/pages/tribe/main.blade.php"
-			],
-			[
-				"front",
-				"resources/views/pages/front/front.blade.php"
-			],
-			[
-				"tribe-",
-				"resources/views/pages/front/tribe-search.blade.php"
-			],
-			[
-				"tribe.",
-				"resources/views/layouts/tribe.blade.php"
-			],
-			[
-				"frontcon",
-				"app/Http/Controllers/Front/FrontController.php"
-			],
-			[
-				"tribe",
-				"resources/views/pages/front/tribe-search.blade.php"
-			],
-			[
-				"front.",
-				"resources/views/pages/front/front.blade.php"
-			],
-			[
-				"tribecon",
-				"app/Http/Controllers/Tribe/TribeController.php"
-			],
-			[
-				"main.blade.",
-				"resources/views/pages/tribe/main.blade.php"
-			],
-			[
-				"web.hp",
-				"routes/web.php"
-			],
-			[
-				"login",
-				"resources/views/pages/login/login.blade.php"
-			],
-			[
-				"create-po",
-				"resources/views/pages/tribe/create-posting.blade.php"
-			],
-			[
-				"create-",
-				"resources/views/pages/tribe/create-project.blade.php"
-			],
-			[
-				"menu",
-				"resources/views/pages/sections/menu.blade.php"
-			],
-			[
-				"awsco",
-				"awsconnect.sh"
-			],
-			[
-				"web.php",
-				"routes/web.php"
-			],
-			[
-				"tribem",
-				"app/Model/Tribe/TribeMain.php"
-			],
-			[
-				"upload.p",
-				"public/ckeditor/plugins/imageuploader/imgupload.php"
-			],
-			[
-				"upload.ph",
-				"public/ckeditor/plugins/imageuploader/imgupload.php"
-			],
-			[
-				"ckeditor.",
-				"public/ckeditor/config.js"
-			],
-			[
-				"config.js",
-				"public/ckeditor/config.js"
-			],
-			[
-				"posting",
-				"resources/views/pages/tribe/create-posting.blade.php"
-			],
-			[
-				"tribeh",
-				"app/Helper/TribeHelper.php"
-			],
-			[
-				"web.p",
-				"routes/web.php"
-			],
-			[
-				"tribecontr",
-				"app/Http/Controllers/Tribe/TribeController.php"
-			],
-			[
-				"menu.",
-				"resources/views/pages/sections/menu.blade.php"
-			],
-			[
-				"web.ph",
-				"routes/web.php"
-			],
-			[
-				"authenticatesu",
-				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
-			],
-			[
-				"authcontro",
-				"app/Http/Controllers/Auth/RegisterController.php"
-			],
-			[
-				"logincontroller",
-				"app/Http/Controllers/Auth/LoginController.php"
-			],
-			[
-				"logincon",
-				"app/Http/Controllers/Auth/LoginController.php"
-			],
 			[
 				"phonelistcon",
 				"app/phone-list/phone-list.component.js"
@@ -812,6 +475,10 @@
 			[
 				"app.",
 				"app/scripts/app.js"
+			],
+			[
+				"main",
+				"bower_components/oclazyload/examples/requireJSExample/js/main.js"
 			],
 			[
 				"passp",
@@ -866,7 +533,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 251.0,
+	"side_bar_width": 134.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
