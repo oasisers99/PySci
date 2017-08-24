@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"ani",
+				"animal"
+			],
+			[
+				"anim",
+				"animal"
+			],
+			[
+				"anima",
+				"animals\tstatement"
+			],
+			[
 				"nf-fie",
 				"nf-field-32"
 			],
@@ -75,6 +87,16 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "standford/standford1.py",
+			"settings":
+			{
+				"buffer_size": 2265,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "def quicksort(arr):"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -138,10 +160,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/songminseok/repository/PySci"
+		"/Users/songminseok/repository/PySci",
+		"/Users/songminseok/repository/PySci/standford"
 	],
 	"file_history":
 	[
+		"/Users/songminseok/repository/PySci/pysci.sublime-project",
 		"/Users/songminseok/Dropbox/PROVISO/TEXTANALYTICS_NOTE",
 		"/Users/songminseok/Dropbox/INVESTMENT/MEMO",
 		"/Users/songminseok/Dropbox/VISA/FAMILY/FAMILY_VISA_MEMO",
@@ -268,8 +292,7 @@
 		"/Users/songminseok/Downloads/poama/TEST.nc",
 		"/Users/songminseok/Downloads/D11-02(1)/D01",
 		"/Users/songminseok/Downloads/D11-02(1)/D11",
-		"/Users/songminseok/Downloads/D11-02(1)/D12",
-		"/Users/songminseok/Downloads/XSLTSample/web/index.html"
+		"/Users/songminseok/Downloads/D11-02(1)/D12"
 	],
 	"find":
 	{
@@ -387,8 +410,50 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "standford/standford1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1623,
+								1623
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "def quicksort(arr):",
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 916.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -435,7 +500,7 @@
 	{
 		"height": 100.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "Anaconda Python Builder 36",
 	"project": "pysci.sublime-project",
 	"replace":
 	{
@@ -533,7 +598,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 134.0,
+	"side_bar_width": 217.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
